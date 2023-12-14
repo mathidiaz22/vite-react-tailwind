@@ -1,4 +1,4 @@
-# vite React TypeScript tailwindcss starter
+# React TypeScript Vite Tailwind CSS Starter
 
 Template for vite, React + tailwindcss + TypeScript projects with some tools preconfigured.
 
@@ -29,10 +29,6 @@ Template for vite, React + tailwindcss + TypeScript projects with some tools pre
 - [VS Code settings](https://code.visualstudio.com/)
 
 ## Usage
-
-Create a new project from this template by clicking the "Use this template" button:
-
-![](assets/template-usage.png)
 
 ```bash
 yarn
